@@ -5,3 +5,11 @@ Iran
 South Korea
 Australia
 Saudi Arabia
+
+Europian Teams:
+
+England
+Spain
+Italy
+Germany
+Portugal
